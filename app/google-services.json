@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "205805835363",
+    "firebase_url": "https://chat-591aa.firebaseio.com",
+    "project_id": "chat-591aa",
+    "storage_bucket": "chat-591aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205805835363:android:6b077f755f80bcc4",
+        "android_client_info": {
+          "package_name": "com.jonathanalvarez.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205805835363-s32aqa8mfh4afq9l7ngadi43gk248e62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jonathanalvarez.chat",
+            "certificate_hash": "612f4a7d80b69dee021d92e3ef3a04d1482913e7"
+          }
+        },
+        {
+          "client_id": "205805835363-tptko9lgonm8pvdn5end0pgio9364ha0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVos2MrZf9N8dtBcmRUgm7YPsdAc2SRbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205805835363-tptko9lgonm8pvdn5end0pgio9364ha0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

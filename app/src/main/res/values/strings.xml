@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Chat</string>
+
+    <!-- Login view -->
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_confirm_password">Confirm Password</string>
+    <string name="login_sign_in">Sign In</string>
+    <string name="login_sign_up">Sign Up</string>
+    <string name="login_reset_password">Reset my password</string>
+    <string name="login_sign_in_google">Sign In with Google</string>
+    <string name="login_forgot_password">I have forgotten my password</string>
+    <string name="login_create_account">Create new account</string>
+    <string name="login_go_login">Go back to Login</string>
+    <string name="message_data_incomplete">Please make sure all the data is correct.</string>
+    <string name="message_send_email_confirm">An email has been sent to you. Please, confirm before sing in</string>
+    <string name="message_general_error">An unexpected error occurred, please try again</string>
+    <string name="error_message_invalid_email">Email is not invalid</string>
+    <string name="error_message_invalid_password">Password should contain 1 lowercase, 1 uppercase, 1 number and 1 special character and 4 characters length al least</string>
+    <string name="error_message_password_not_match">Confirm password does not match with Password</string>
+    <string name="message_email_not_confirm">User must confirm email first</string>
+    <string name="message_reset_password">Email has been sent to reset your password.</string>
+    <string name="message_mail_correct">Please make sure the email address is correct.</string>
+    <string name="message_connection_failed">¡Connection failed!</string>
+
+    <!--Bottom Navigation Menu -->
+    <string name="bottom_navigation_info">Info</string>
+    <string name="bottom_navigation_rates">Rates</string>
+    <string name="bottom_navigation_chat">Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_edit_text_chat">Type hera a message...</string>
+    <string name="info_label_messages">Total messages</string>
+    <string name="info_no_name">Name is not available</string>
+    <string name="menu_log_out">Log out</string>
+
+    <!-- Rates -->
+    <string name="dialog_title">Rate the App!</string>
+    <string name="dialog_edit_text_hint">Leave your feedback</string>
+    <string name="dialog_ok">Rate</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_message_not_empty_text">Rate can not be empty</string>
+
+</resources>
